@@ -1,0 +1,13 @@
+.character-list{
+  display: block;
+  margin: 0 auto;
+  li{
+    float: left;
+    list-style-type: none;
+    text-align: center;
+    border: 1px solid black;
+    span{
+      margin-bottom: 15px; 
+    }
+  }
+}
